@@ -10,9 +10,9 @@
 
 * 📍 Based in Cali, Colombia
 * 🎓 Multimedia Engineering student & AI Specialization in progress
-* 💼 Backend Developer (Freelancer)
+* 💼 Semi Senior Fullstack 
 * 🌱 Always learning and improving my skills in software architecture and emerging technologies
-* 🗣️ Languages: Spanish (Native), English (B1)
+* 🗣️ Languages: Spanish (Native), Professional Working Proficiency (B1–B2)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### Backend Development
 
-* NestJS | Node.js | RESTful APIs
+* NestJS | Node.js | RESTful APIs | JWT AUTH |
 * SQL | JavaScript | Python | Java | C# | C++
 * DTOs, class-validator, Pipes & Modular Architecture
 
@@ -38,6 +38,7 @@
 ### Tools & Platforms
 
 * Git & GitHub
+* Docker
 * Arduino
 * Office Suite
 * SolidWorks | AutoCAD
@@ -48,7 +49,7 @@
 
 ### Freelance Developer — Backend & Web
 
-📅 Feb 2025 – Jun 2025
+📅 Feb 2025 – Sept 2025
 
 Worked as an independent freelancer for a private client, providing backend development services on a project basis.
 
@@ -65,9 +66,27 @@ Worked as an independent freelancer for a private client, providing backend deve
 
 ---
 
+📅 2026 – Present
+
+Worked in an English-speaking healthcare environment supporting the medical authorization workflow for a healthcare provider in Miami, collaborating with patients, clinics, physicians, and insurance companies.
+
+Responsibilities
+Coordinated medical appointment authorization processes with healthcare providers and insurance companies.
+Communicated professionally in English with patients, medical clinics, physicians, and insurance representatives.
+Verified insurance eligibility, medical information, and authorization requirements using healthcare management software.
+Managed confidential healthcare records while ensuring accuracy and compliance with established procedures.
+Resolved scheduling and authorization issues by coordinating across multiple stakeholders.
+Key Achievements
+✅ Strengthened professional English communication skills in a fast-paced international environment.
+✅ Developed experience working with enterprise healthcare software and standardized operational workflows.
+✅ Improved problem-solving abilities by handling complex authorization and coordination processes.
+✅ Maintained high levels of accuracy while managing sensitive information and time-critical requests.
+
+---
+
 ## 🎓 Education
 
-* **Multimedia Engineering** – Universidad Autónoma de Occidente (In progress)
+* **Multimedia Engineering** – Universidad Autónoma de Occidente (Finalized)
 * **Specialization in Artificial Intelligence** – Universidad Autónoma de Occidente (In progress)
 
 ---
@@ -97,7 +116,7 @@ Worked as an independent freelancer for a private client, providing backend deve
 
 ## 🤝 Let's Connect
 
-* 📧 Email: [jalejandrogm0514@hotmail.com](mailto:jalejandrogm0514@hotmail.com)
+* 📧 Email: [jalejandro.gil05@gmail.com](mailto:jalejandro.gil05@gmail.com)
 * 🔗 LinkedIn: [https://linkedin.com](www.linkedin.com/in/alejandro-gil-murillo-3bb2362b2)
 
 ---
