@@ -24,8 +24,8 @@ Complete redesign of the website of a travel agency in Cali, Colombia: 42 pages 
 - Mobile-first and accessible (44 px tap targets), with sales funnels to WhatsApp and an online booking engine
 - CI with GitHub Actions and preview deployments for every pull request
 
-### Lex Virtual — VR training platform for law students
-University team project · 2025 · [API](https://github.com/UchihaGitHubb/lex-virtual-backend) · [Web dashboard](https://github.com/UchihaGitHubb/lex-virtual-web) · [Unity VR app](https://github.com/UchihaGitHubb/lex-virtual-unity)
+### [Lex Virtual — VR training platform for law students](https://lex-virtual-demo.vercel.app)
+University team project · 2025 · [Live demo](https://lex-virtual-demo.vercel.app) · [API](https://github.com/UchihaGitHubb/lex-virtual-backend) · [Web dashboard](https://github.com/UchihaGitHubb/lex-virtual-web) · [Unity VR app](https://github.com/UchihaGitHubb/lex-virtual-unity)
 
 Students practice legal cases in virtual reality; the app measures their performance and nervousness, and teachers review the results and give feedback.
 
