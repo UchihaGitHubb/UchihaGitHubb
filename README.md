@@ -33,8 +33,8 @@ Students practice legal cases in virtual reality; the app measures their perform
 - **Frontend:** React Router 7, React 19, TypeScript — teacher dashboard with student tracking and charts
 - **VR:** Unity with XR Interaction Toolkit, connected to the same REST API
 
-### [Galería Alameda — market guide app](https://github.com/UchihaGitHubb/Galeria_alameda_hd)
-Personal project · 2026
+### [Galería Alameda — market guide app](https://galeria-alameda-full.vercel.app)
+Personal project · 2026 · [Live demo](https://galeria-alameda-full.vercel.app) · [Code](https://github.com/UchihaGitHubb/Galeria_alameda_hd)
 
 Mobile web app to explore the Galería Alameda market in Cali: interactive map with zoom, zones, vendors, search by category, routes and favorites.
 
