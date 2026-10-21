@@ -85,7 +85,7 @@ Mobile web app to explore the Galería Alameda market in Cali: interactive map w
 | --- | --- | --- |
 | Frontend Web Developer (Freelance) | Wanderlux, travel agency | Aug 2026 – Oct 2026 |
 | Bilingual Operator | Vital Imaging Diagnostic Center — remote from Cali for Miami, US | Feb 2026 – Present |
-| Backend Developer (Freelance) | Independent client | May 2025 – Sep 2025 |
+| Backend Developer (Freelance) | Independent client | Feb 2025 – May 2025 |
 
 ## 🎓 Education
 
