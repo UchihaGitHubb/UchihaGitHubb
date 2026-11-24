@@ -53,6 +53,12 @@ High-fidelity, conversion-focused redesign proposal for a medical clinic in Cali
 
 ---
 
+## 🌱 Open source
+
+- **[AutoClip](https://github.com/artbyjazi/autoclip)** (local-first AI video clipper, Python) · [PR #16](https://github.com/artbyjazi/autoclip/pull/16), *in review*: exported clips that shared a title overwrote each other on disk without warning. The fix prefixes each filename with the clip's rank and adds tests; it passed the project's lint, unit and real ffmpeg render suites.
+
+---
+
 ## 🛠️ Tech stack
 
 **Languages**
