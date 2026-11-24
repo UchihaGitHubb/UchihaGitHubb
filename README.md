@@ -41,6 +41,16 @@ Mobile web app to explore the Galería Alameda market in Cali: interactive map w
 - **Stack:** React 19, React Router, JavaScript
 - Spanish / English, light and dark themes, onboarding and authentication screens
 
+### [Clínica Nova — website redesign concept](https://clinica-nova-five.vercel.app)
+Independent concept · 2026 · [Live demo](https://clinica-nova-five.vercel.app) · [Code](https://github.com/UchihaGitHubb/clinica-nova-redisenio)
+
+High-fidelity, conversion-focused redesign proposal for a medical clinic in Cali, planned from a content audit to a full design system before writing code.
+
+- **Stack:** Next.js 16 (App Router), React 19, TypeScript, Vercel
+- Pages for procedures, specialists, results, patient journey and an assessment-booking flow, plus legal pages, sitemap and robots
+- Written spec in `docs/`: project direction, content audit, asset inventory, information architecture and design system
+- Not affiliated with the clinic; code shared for review only, all rights reserved
+
 ---
 
 ## 🛠️ Tech stack
